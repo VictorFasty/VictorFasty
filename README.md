@@ -41,7 +41,7 @@
 
 </div>
 
-### 📚 Meus Materiais de Estudo (Threads):
+### 📚 Meus Materiais de Estudo :
 
 <details>
   <summary>🚀 Programação Orientada a Objetos (POO)</summary>
