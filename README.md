@@ -4,7 +4,7 @@
 
 - 📍 Living in Jaguaquara, Brazil 🇧🇷
 - 🎂 21 years old
-- 👨‍💻 Java & React Developer | Constantly learning new technologies
+- 👨‍💻 Java Backend Developer | Constantly learning new technologies
 - 💬 Connect with me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santos-faasty)
  
 
