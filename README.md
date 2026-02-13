@@ -55,4 +55,16 @@
   </ul>
 </details>
 
+<details>
+  <summary>🐳 DevOps & Infraestrutura (Docker)</summary>
+  <br>
+  <blockquote>
+    Ferramentas para containerização, isolamento de ambientes e orquestração de microsserviços.
+  </blockquote>
+  <ul>
+    <li><a href="https://github.com/VictorFasty/Estudos-Docker"><strong>Artigo: Docker - Guia Essencial (Do Conceito à Prática)</strong></a></li>
+    <li>Diferença entre VM e Container, Criação de Dockerfiles otimizados (Multi-stage), Redes, Volumes e Docker Compose.</li>
+  </ul>
+</details>
+
 
