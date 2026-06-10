@@ -3,7 +3,7 @@
 **Backend Developer**
 
 - 📍 Living in Bahia, Brazil 🇧🇷
-- 🎂 21 years old
+- 🎂 22 years old
 - 👨‍💻 Java Backend Developer | Constantly learning new technologies
 - 💬 Connect with me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santos-faasty)
  
